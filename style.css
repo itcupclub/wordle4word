@@ -4,7 +4,7 @@
   }
   
   body {
-    background: linear-gradient(30deg, indigo, rgb(0, 179, 255), white);
+    background: url("/IMG_3186.JPG");
     display: flex;
     flex-direction: column;
     min-height: 100vh;
